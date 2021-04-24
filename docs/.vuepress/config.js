@@ -2,15 +2,16 @@
  * @Author: 杨光辉(GerhardYang)
  * @Date: 2021-04-23 18:29:47
  * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2021-04-24 22:01:40
+ * @LastEditTime: 2021-04-24 23:17:24
  * @Description: file content
  * @Copyright: 超图软件华中平台客户中心 (SuperMap Software Co., Ltd. -Central China Platform)
  */
 
 module.exports = {
+    base: 'nav',
     title: '超图集团',
     description: 'SuperMap资源导航',
-    dest: 'dist',
+    dest: 'nav',
     extraWatchFiles: [
         '.vuepress/config.js' // 使用相对路径
     ],
