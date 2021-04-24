@@ -1,0 +1,25 @@
+{
+  "name": "supermapgroup",
+  "version": "2.0.0",
+  "description": "GIS 资源导航",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://e.coding.net/GerhardYang/supermap.group.git"
+  },
+  "keywords": [
+    "supermap.group"
+  ],
+  "author": "gerhard",
+  "license": "MIT",
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {}
+}
