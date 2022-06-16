@@ -2,7 +2,7 @@
  * @Author: 杨光辉(GerhardYang)
  * @Date: 2021-04-23 18:29:47
  * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2021-04-24 23:52:13
+ * @LastEditTime: 2022-06-16 13:19:38
  * @Description: file content
  * @Copyright: 超图软件华中平台客户中心 (SuperMap Software Co., Ltd. -Central China Platform)
  */
@@ -47,12 +47,12 @@ module.exports = {
             },
             {
                 text: '服务资源',
-                link: '/source/',
+                link: '/resource/',
                 items: [
-                    { text: 'iClient', link: '/source/iclient' },
-                    { text: '技术资源中心', link: '/source/ziyuanzhongxin' },
-                    { text: '在线服务', link: '/source/online' },
-                    { text: '培训资源', link: '/source/edu' },
+                    { text: 'iClient', link: '/resource/iclient' },
+                    { text: '技术资源中心', link: '/resource/ziyuanzhongxin' },
+                    { text: '在线服务', link: '/resource/online' },
+                    { text: '培训资源', link: '/resource/edu' },
                 ]
             },
             {
@@ -77,7 +77,7 @@ module.exports = {
             },
             {
                 text: '关于',
-                link: '/abort/'
+                link: '/about/'
             }
         ],
         // 侧边栏
@@ -102,7 +102,7 @@ module.exports = {
             '/office/': [
                 ['', "内部办公系统"]
             ],
-            '/abort/': [
+            '/about/': [
                 ['', "关于"]
             ]
         }

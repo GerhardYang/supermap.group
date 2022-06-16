@@ -18,7 +18,7 @@ export default {
   name: "supermap-statistics",
   mounted() {
     var _hmt = _hmt || [];
-    (function () {
+    (function() {
       var hm = document.createElement("script");
       hm.src = "https://hm.baidu.com/hm.js?510a05b47ce6df158ead06028eeecc22";
       var s = document.getElementsByTagName("script")[0];

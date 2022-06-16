@@ -1,7 +1,7 @@
 <!--
  * @Date: 2020-08-24 10:15:05
- * @LastEditors: 杨光辉_GerhardYang
- * @LastEditTime: 2020-12-20 00:25:41
+ * @LastEditors: 杨光辉(GerhardYang)
+ * @LastEditTime: 2022-06-16 13:11:51
  * @FilePath: \supermap.group\docs\doc\README.md
  * @Description: 
 -->
@@ -19,17 +19,19 @@
 
 ## [iEdge 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iEdge/index.htm)
 
-## [iManager 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iManager/index.htm)
+## [iManager 联机帮助](https://help.supermap.com/iManager)
 
-## [iManager for K8S 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iManagerfork8s/index.htm)
+## [iManager for K8S 联机帮助](https://help.supermap.com/iManager_K8S)
 
 ## [iMobile for Android 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iMobileForAndroid/SuperMapObjectsEmbeddedHelp.htm)
 
 ## [iMobile Lite for Android 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iMobileLiteForAndriod/SuperMapiMobileLiteforAndroid.htm)
 
-## [iTablet 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/SuperMap%20iTablet%2010i%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9.pdf)
-
 ## [iMobile for IOS 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iMobileForIos/SuperMapiMobileForiOSHelp.htm)
+
+## [iTablet for Android 联机帮助](https://help.supermap.com/iTablet/zh/)
+
+## [ARSurvey for Android 联机帮助](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/Mobile/SuperMap%20ARSurvey1.1%20%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
 
 ## [行业方案](http://support.supermap.com.cn/product/hangyefangan.aspx)
 

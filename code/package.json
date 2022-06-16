@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://e.coding.net/GerhardYang/supermap.group.git"
+    "url": "https://github.com/GerhardYang/supermap.group.git"
   },
   "keywords": [
     "supermap.group"
@@ -17,9 +17,9 @@
   "author": "gerhard",
   "license": "MIT",
   "dependencies": {
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-medium-zoom": "^1.8.2",
-    "vuepress": "^1.8.2"
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "vuepress": "^1.9.7"
   },
   "devDependencies": {}
 }

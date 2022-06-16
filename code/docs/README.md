@@ -2,7 +2,7 @@
  * @Author: 杨光辉(GerhardYang)
  * @Date: 2021-04-23 18:29:47
  * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2021-04-24 21:58:55
+ * @LastEditTime: 2022-06-16 13:05:05
  * @Description: file content
  * @Copyright: 超图软件华中平台客户中心 (SuperMap Software Co., Ltd. -Central China Platform)
 -->
@@ -15,11 +15,26 @@
 
 &emsp;&emsp;自 1997 年成立以来，超图聚焦地理信息系统相关软件技术研发与应用服务，下设基础软件、应用软件、云服务三大 GIS 业务板块，并构建生态伙伴体系，通过 1000 余家生态伙伴为数十个行业的政府和企事业单位信息化全面赋能。目前，SuperMap 在 GIS 基础软件中国区域的市场份额已超越国外品牌，并在 30 多个国家发展了代理商，将 SuperMap GIS 推广到 100 多个国家和地区。
 
-[官网 >>](https://www.supermap.com/cn/)
+[超图官网 >>](https://www.supermap.com/cn/)
+
+<div style="margin:0 auto;"> <img src="./jianjie.png"/> </div>  
+<div style="margin:0 auto;"> 
+    <div style="float:left">
+        <img src="./15.png"/>
+    </div>
+    <div style="float:left;margin:10% 20%;font-size:22px;line-height:48px;">
+        <span style="display:inline;">手机扫左侧二维码快速报名</span><br>
+        <span style="display:inline;">电脑点击下方链接快速报名</span><br>
+        <a  href="http://www.gistc.com/gtc2022/index.asp?name=%E6%9D%A8%E5%85%89%E8%BE%89&dep=%E5%8D%8E%E4%B8%AD%E5%B9%B3%E5%8F%B0&source=ptywq">GTC官网链接</a>
+    </div>
+</div>  
+<div style="margin:0 auto;"> <img src="./kandian.png"/> </div> 
+<div style="margin:0 auto;"> <img src="./richeng.png"/> </div>
 
 ## 超图使命:
 
 ### <center>地理智慧创新 IT 价值</center>
+
 #### <center>INNOVATE IT VALUE WITH GEO-INTELLIGENCE</center>
 
 #
