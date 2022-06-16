@@ -2,11 +2,11 @@
  * @Author: 杨光辉_GerhardYang
  * @Date: 2020-09-12 16:09:26
  * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2021-04-25 00:02:46
+ * @LastEditTime: 2022-06-16 13:44:09
  * @Description: file content
 -->
 
-## 1.[人力资源系统](http://hr.supermap.cn/portal/)
+## 1.[HR 系统](http://hr.supermap.cn/portal/)
 
 ![img](./README.assets/hr.png)
 

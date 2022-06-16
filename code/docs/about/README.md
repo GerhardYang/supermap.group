@@ -2,7 +2,7 @@
  * @Author: 杨光辉(GerhardYang)
  * @Date: 2021-04-23 18:29:47
  * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2021-04-24 21:59:42
+ * @LastEditTime: 2022-06-16 13:38:24
  * @Description: file content
  * @Copyright: 超图软件华中平台客户中心 (SuperMap Software Co., Ltd. -Central China Platform)
 -->
@@ -22,6 +22,10 @@
 ## 我的 CSDN
 
 <https://gerhard.blog.csdn.net/>
+
+## GitHub 地址
+
+<https://github.com/GerhardYang/supermap.group>
 
 ## 探索地理之源 分享 GIS 价值
 
