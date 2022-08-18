@@ -2,7 +2,7 @@
  * @Author: 杨光辉(GerhardYang)
  * @Date: 2021-04-23 18:29:47
  * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2022-06-16 13:19:38
+ * @LastEditTime: 2022-06-16 17:39:21
  * @Description: file content
  * @Copyright: 超图软件华中平台客户中心 (SuperMap Software Co., Ltd. -Central China Platform)
  */
@@ -18,15 +18,15 @@ module.exports = {
     head: [
         ['meta', {
             name: 'keywords',
-            content: '超图,超图集团,超图软件,北京超图,北京超图软件,超图公司,北京超图软件股份有限公司,supermap.group,GIS,SuperMap,iserver,iportal,idesktop,imanager,iclient,imobile'
+            content: '超图,超图集团,超图软件,北京超图,北京超图软件,超图公司,北京超图软件股份有限公司,超图信息,超图国际,北京超图集团,超图分公司,超图开放平台,超图研究院,超图平台业务,超图子公司,chaotu,supermap.group,GIS,SuperMap,iServer,iPortal,iDesktop,iManager,iClient,iMobile'
         }],
         ['meta', {
             name: 'description',
-            content: '本站主要用来记录经常需要访问的网站，方便工作和学习！'
+            content: '超图集团是全球第三大、亚洲第一大地理信息系统（GIS）软件厂商，由母公司超图软件（股票代码：300036）及旗下的超图信息、超图国际、上海南康、南京国图、北京安图、上海数慧等一级 ( 全资 ) 子公司，地图慧、日本超图等二级 ( 控股 ) 子公司，以及遍布全国的分公司、办事处组成。'
         }],
         ['meta', {
             name: 'Abstract',
-            content: '网址导航 supermap.group'
+            content: '超图集团是全球第三大、亚洲第一大地理信息系统（GIS）软件厂商，由母公司超图软件（股票代码：300036）及旗下的超图信息、超图国际、上海南康、南京国图、北京安图、上海数慧等一级 ( 全资 ) 子公司，地图慧、日本超图等二级 ( 控股 ) 子公司，以及遍布全国的分公司、办事处组成。'
         }],
         ['meta', {
             name: 'Copyright',

@@ -1,16 +1,16 @@
 <!--
  * @Author: 杨光辉_GerhardYang
  * @Date: 2020-09-12 16:09:26
- * @LastEditors: 杨光辉(GerhardYang)
- * @LastEditTime: 2022-06-16 13:44:09
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-08-18 11:52:25
  * @Description: file content
 -->
 
-## 1.[HR 系统](http://hr.supermap.cn/portal/)
+## 1.[HR 系统](http://oa.supermap.com/portal/app/mockapp/login.jsp?lrid=1)
 
 ![img](./README.assets/hr.png)
 
-## 2.[OA 办公协同系统](http://oa.supermap.cn/seeyon/index.jsp)
+## 2.[OA 办公协同系统](http://oa.supermap.com/seeyon/main.do)
 
 ![img](./README.assets/oa.png)
 
